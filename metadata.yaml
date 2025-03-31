@@ -6,6 +6,9 @@ contributor:
     alias: Scott, Arthur O.
     gutenberg_agent_id: '25205'
     url: http://www.gutenberg.org/2009/agents/25205
+covers:
+- cover_type: archival
+  image_path: 75584-h/images/cover.jpg
 creator:
   author:
     agent_name: Cooper, James A.
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '5312'
     url: http://www.gutenberg.org/2009/agents/5312
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75584#Cap-n-Jonah-s-fortune-b-A-story-of-Cape-Cod
 gutenberg_issued: '2025-03-10'
 gutenberg_type: Text
 identifiers:
